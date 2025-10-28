@@ -23,7 +23,7 @@ export default function Home() {
 
       {/* Content */}
       <div className="relative z-10">
-        <HeroSection skipIntro={skipIntro} setSkipIntro={setSkipIntro} />
+        <HeroSection />
         <AboutSection />
         <HowItWorks />
         <Testimonials />
