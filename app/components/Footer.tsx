@@ -32,8 +32,7 @@ export default function Footer() {
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
           >
-            <h3 className="text-2xl font-bold text-accent mb-2">SamyFLW</h3>
-            <p className="text-foreground/70">Elevating TikTok creators to new heights.</p>
+            <h3 className="text-2xl font-bold text-accent mb-2">[Name]</h3>
           </motion.div>
 
           {/* Links */}
