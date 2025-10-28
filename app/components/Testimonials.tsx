@@ -72,10 +72,10 @@ export default function Testimonials() {
               {"// TESTIMONIALS"}
             </p>
             <h2 className="text-4xl md:text-5xl font-bold mb-4">
-              Creator Success Stories
+              Success Stories
             </h2>
             <p className="text-foreground/70 max-w-2xl mx-auto">
-              Hear from creators who scaled their reach and revenue with SamyFLW.
+              Hear from our precious clients.
             </p>
           </motion.div>
 
