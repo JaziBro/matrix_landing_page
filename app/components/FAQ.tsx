@@ -11,33 +11,28 @@ export default function FAQ() {
 
   const faqs = [
     {
-      question: "How long does it take to see results?",
+      question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?",
       answer:
-        "Most creators notice growth within 2–4 weeks, with significant traction typically achieved by the 2–3 month mark as we refine your strategy.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
-      question: "What if I'm a beginner with no followers?",
+      question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?",
       answer:
-        "Perfect — we love working with emerging creators. Our framework helps you grow from zero to hero, crafting content that fits your niche and personality.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
-      question: "Do you guarantee viral content?",
+      question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?",
       answer:
-        "No one can guarantee virality, but we engineer your content strategy for maximum reach potential — prioritizing sustainable growth and authentic engagement.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
     {
-      question: "What's included in your service?",
+      question: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua?",
       answer:
-        "We handle strategy, optimization, community management, brand partnerships, and 24/7 support. You focus on creating — we handle the growth.",
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     },
-    {
-      question: "How much does it cost?",
-      answer:
-        "Our pricing adapts to your goals and audience size, starting with affordable creator packages. Book a quick discovery call for a custom quote.",
-    },
+   
   ]
 
-  // ✅ Use typed safe variants
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {

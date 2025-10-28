@@ -7,7 +7,6 @@ import { useEffect, useState } from "react"
 export default function HeroSection() {
   const [matrix, setMatrix] = useState<string[]>([])
 
-  // Generate random binary characters for the rain
   useEffect(() => {
     setMatrix(
       Array.from({ length: 25 }, () => (Math.random() > 0.5 ? "1" : "0"))

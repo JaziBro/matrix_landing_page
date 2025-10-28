@@ -34,7 +34,6 @@ export default function FeaturesSection() {
     },
   ]
 
-  // ✅ typed safely with `satisfies Variants`
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
