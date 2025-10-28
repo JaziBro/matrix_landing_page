@@ -72,7 +72,7 @@ export default function Footer() {
                   <a
                     key={social.label}
                     href={social.href}
-                    className="p-2 glass-effect rounded hover:border-accent/50 transition-all"
+                    className="p-2 text-lg rounded hover:2xl:-translate-2/5"
                     aria-label={social.label}
                   >
                     <Icon className="w-5 h-5 text-accent" />
@@ -91,7 +91,7 @@ export default function Footer() {
           viewport={{ once: true }}
           className="border-t border-accent/20 pt-8 text-center text-foreground/70"
         >
-          <p>© {currentYear} SamyFLW. All rights reserved. | Crafted for creators.</p>
+          <p>© {currentYear} [Name]. All rights reserved. | Crafted for creators.</p>
         </motion.div>
       </div>
     </footer>

@@ -70,7 +70,7 @@ export default function FAQ() {
               Frequently Asked Questions
             </h2>
             <p className="text-foreground/70 max-w-xl mx-auto">
-              Everything you need to know before joining the <span className="text-accent font-semibold">SamyFLW Network</span>.
+              Everything you need to know before joining the <span className="text-accent font-semibold">[Name]</span>.
             </p>
           </motion.div>
 

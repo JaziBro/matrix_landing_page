@@ -35,15 +35,15 @@ export default function CTA() {
           variants={containerVariants}
           className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-glow"
         >
-          Ready to <span className="text-accent">Grow</span> Your Influence?
+          Lorem Ipsum<span className="text-accent">Dolor</span> Amit?
         </motion.h2>
 
         <motion.p
           variants={containerVariants}
           className="text-lg md:text-xl text-foreground/80 mb-10 max-w-2xl mx-auto"
         >
-          Unlock your creator potential with <span className="text-accent font-semibold">SamyFLW</span>.  
-          Data-driven growth. Authentic results.
+          Lorem Ipsum Dolor<span className="text-accent font-semibold">[Name]</span>.  
+          Sit Amet.
         </motion.p>
 
         <motion.div
