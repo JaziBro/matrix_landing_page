@@ -93,10 +93,10 @@ export default function AboutSection() {
               className="grid grid-cols-2 gap-6 md:gap-8"
             >
               {[
-                { number: "500+", label: "Creators Managed" },
-                { number: "2B+", label: "Total Views" },
-                { number: "95%", label: "Growth Rate" },
-                { number: "24/7", label: "Support" },
+                { number: "500+", label: "Lorem" },
+                { number: "2B+", label: "Ipsum" },
+                { number: "95%", label: "Dolor" },
+                { number: "24/7", label: "Sit amet" },
               ].map((stat, i) => (
                 <motion.div
                   key={i}
