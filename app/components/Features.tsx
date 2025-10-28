@@ -12,25 +12,25 @@ export default function FeaturesSection() {
       icon: Zap,
       title: "Audit & Strategy",
       description:
-        "We analyze your content and craft a tailored strategy built to maximize visibility, engagement, and growth.",
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa",
     },
     {
       icon: TrendingUp,
       title: "Content Optimization",
       description:
-        "We fine-tune every post with proven data-driven insights to ensure your videos hit the right audience.",
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa",
     },
     {
       icon: Users,
       title: "Community Building",
       description:
-        "We help you foster a genuine, loyal community — not just followers — for sustained influence.",
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa",
     },
     {
       icon: Sparkles,
       title: "Monetization",
       description:
-        "Turn your creative power into revenue through sponsorships, partnerships, and brand collaborations.",
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa",
     },
   ]
 
